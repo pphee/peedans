@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/peedaan" target="blank"><img src="https://img.shields.io/twitter/follow/peedaan?logo=twitter&style=for-the-badge" alt="peedaan" /></a> </p>
 
-- 🌱 I’m currently learning **๋๋Javascript & React**
+- 🌱 I’m currently learning Javascript & React
 
 - 👨‍💻 All of my projects are available at [https://github.com/peedans](https://github.com/peedans)
 
