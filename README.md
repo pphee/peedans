@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/peedaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peedaan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pee-dansatiensakul-b80006233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pee-dansatiensakul-b80006233" height="30" width="40" /></a>
-<a href="https://fb.com/pee dansatniensakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pee dansatniensakul" height="30" width="40" /></a>
+<a href="https://www.facebook.com/R4punzel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pee dansatniensakul" height="30" width="40" /></a>
 <a href="https://instagram.com/peedaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peedaan" height="30" width="40" /></a>
 </p>
 
