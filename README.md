@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/peedaan" target="blank"><img src="https://img.shields.io/twitter/follow/peedaan?logo=twitter&style=for-the-badge" alt="peedaan" /></a> </p>
 
-- 🌱 I’m currently learning Javascript & React
+- 🌱 I’m currently learning : Javascript & React
 
-- 👨‍💻 All of my projects are available at [https://github.com/peedans](https://github.com/peedans)
+- 👨‍💻 All of my projects are available at : [https://github.com/peedans](https://github.com/peedans)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about : **MERN Stack**
 
-- 📫 How to reach me **pee.dans@bumail.net**
+- 📫 How to reach me : **pee.dans@bumail.net**
 
-- 📄 Know about my experiences [https://portfolio-five-lime-67.vercel.app/](https://portfolio-five-lime-67.vercel.app/)
+- 📄 Know about my experiences : [https://portfolio-five-lime-67.vercel.app/](https://portfolio-five-lime-67.vercel.app/)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact : **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
