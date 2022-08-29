@@ -10,7 +10,7 @@
 
 - 💬 Ask me about : **MERN Stack**
 
-- 📫 How to reach me : **pee.dans@bumail.net**
+- 📫 How to reach me : **pee.dansatiensakul@gmail.com**
 
 - 📄 Know about my experiences : [https://portfolio-five-lime-67.vercel.app/](https://portfolio-five-lime-67.vercel.app/)
 
